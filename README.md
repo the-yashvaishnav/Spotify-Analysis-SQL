@@ -32,7 +32,7 @@ Analyzed Spotify music data using SQL to understand trends in songs, artists, an
 ---
 
 ## 📈 Key Insights
--Identifies music trends like albums, tracks, and release patterns
--Shows user registration behavior (email domains & dates)
--Analyzes playlists and user engagement
--Understands track duration and listening patterns
+- Identifies music trends like albums, tracks, and release patterns
+- Shows user registration behavior (email domains & dates)
+- Analyzes playlists and user engagement
+- Understands track duration and listening patterns
